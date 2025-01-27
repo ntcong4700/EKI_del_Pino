@@ -12,9 +12,9 @@
 ### **Vorteile von KI**
 
 1. **Effizienzsteigerung:** KI-Systeme automatisieren Prozesse, sparen Zeit und Kosten (z. B. in der Produktion oder bei Verwaltungsaufgaben).
-2. **Personalisierung:** Kunden erhalten maßgeschneiderte Angebote durch Datenanalyse.
+2. **Personalisierung:** Kunden könnten Angebote durch Datenanalyse erhalten.
 3. **Medizinische Anwendungen:** Diagnose von Krankheiten durch KI-Systeme wie Bilderkennung in der Radiologie.
-4. **Verbesserte Entscheidungsfindung:** KI unterstützt Unternehmen und Institutionen durch Datenanalyse und präzise Vorhersagen.
+4. **Verbesserte Entscheidungsfindung:** KI unterstützt Unternehmen und Institutionen durch Datenanalyse und Vorhersagen.
 
 ---
 
@@ -32,7 +32,8 @@
 ### **Rechtlichen Rahmenbedingungen**
 
 1. **Datenschutz:**
-    - Datenshutz verletz, KI braucht so vielen Daten furs Training.
+    - Datenshutz wird verletz, KI braucht so vielen Daten furs Training.
+    - Viel Daten wurde gestohlen im Internet
 2. **Transparenz:**
     - Verpflichtung, KI-Entscheidungen nachvollziehbar zu machen.
 3. **Verantwortung :**
