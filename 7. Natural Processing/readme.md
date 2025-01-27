@@ -1,6 +1,5 @@
 ## Allgegenwärtige KI – Wie verändern KI-Anwendungen unser tägliches Leben? Was sind die Vorteile und Risiken dabei? Welcher Bedarf besteht für rechtliche Rahmenbedingungen?
 
-## 
 
 - KI bezeichnet die Fähigkeit von Maschinen, Aufgaben auszuführen, die menschliche Intelligenz erfordern, wie Lernen, Problemlösen und Entscheidungsfindung.
 - **Beispiele für KI im Alltag:**
