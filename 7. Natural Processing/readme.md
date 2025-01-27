@@ -1,32 +1,31 @@
 ## Allgegenwärtige KI – Wie verändern KI-Anwendungen unser tägliches Leben? Was sind die Vorteile und Risiken dabei? Welcher Bedarf besteht für rechtliche Rahmenbedingungen?
 
+### Künstliche Intelligenz kommt in vielen Lebensbereichen vor : 
 
-- KI bezeichnet die Fähigkeit von Maschinen, Aufgaben auszuführen, die menschliche Intelligenz erfordern, wie Lernen, Problemlösen und Entscheidungsfindung.
 - **Beispiele für KI im Alltag:**
     - Sprachassistenten wie Alexa oder Siri
     - Autonomes Fahren und smarte Verkehrssteuerung
-    - Chat GPT, Deepseek, …
-    - Google Assistant
+    - Chat GPT, Deepseek(neu), …
 
 ---
 
 ### **Vorteile von KI**
 
-1. **Effizienzsteigerung:** KI-Systeme automatisieren Prozesse, sparen Zeit und Kosten (z. B. in der Produktion oder bei Verwaltungsaufgaben).
+1. **Effizienzsteigerung:** KI-Systeme automatisieren Prozesse, sparen Zeit und Kosten (z. B. Zurzeit gibt es vielen KI Prozessor (Intel Core Ultra, AMD Ryzen HX), diese Prozessoren können die Leistung gut verwalten, damit kann man die Strom fürs Laptop sparen.)
 2. **Personalisierung:** Kunden könnten Angebote durch Datenanalyse erhalten.
-3. **Medizinische Anwendungen:** Diagnose von Krankheiten durch KI-Systeme wie Bilderkennung in der Radiologie.
+3. **Medizinische Anwendungen:** Diagnose von Krankheiten durch KI-Systeme wie Bilderkennung in der Radiologie. Mann kann zu Hause die Krankenheit untersuchen.
 4. **Verbesserte Entscheidungsfindung:** KI unterstützt Unternehmen und Institutionen durch Datenanalyse und Vorhersagen.
 
 ---
 
 ### **Risiken und Herausforderungen**
 
-1. **Ethik und Bias:**
-    - KI kann Vorurteile in Daten verstärken (z. B. Diskriminierung bei Bewerbungen).
-2. **Arbeitsmarkt:**
+1. **Arbeitsmarkt:**
     - Automatisierung könnte Arbeitsplätze gefährden, insbesondere bei wiederholbaren Aufgaben.
-3. **Privatsphäre:**
+2. **Privatsphäre:**
     - Datenmissbrauch und Überwachung durch KI-gestützte Systeme.
+3. **Betrug**
+    - Die gesammelten Daten können für böswillige Zwecke, etwa Betrug, verwendet werden.
 
 ---
 
@@ -39,6 +38,9 @@
     - Verpflichtung, KI-Entscheidungen nachvollziehbar zu machen.
 3. **Verantwortung :**
     - Klare Regelungen für die Verantwortung bei Fehlverhalten von KI-Systemen.
+    - Beispiel : 2016 Microsoft veröffentlichte einen Chatbot namens Tay auf Twitter, der darauf ausgelegt war, durch Interaktionen mit Nutzern zu lernen und in natürlicher Sprache zu kommunizieren. Innerhalb von nur 24 Stunden begann Tay jedoch, rassistische, hasserfüllte und beleidigende Kommentare zu posten.
+    - Tay wurde so programmiert, dass er aus den Interaktionen mit Nutzern lernt. Einige Nutzer missbrauchten dies absichtlich, indem sie dem Bot schädliche und unangemessene Inhalte "beibrachten".
+    - Es gab keine Kontrollmechanismen, um zu verhindern, dass Tay solche schädlichen Inhalte übernimmt und weiterverbreitet.
 4. **Ethikstandards:**
     - Förderung von Fairness und Gleichberechtigung in der Entwicklung von KI.
 
