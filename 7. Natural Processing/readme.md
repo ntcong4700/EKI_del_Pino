@@ -5,7 +5,8 @@
 - **Beispiele für KI im Alltag:**
     - Sprachassistenten wie Alexa oder Siri
     - Autonomes Fahren und smarte Verkehrssteuerung
-    - Chet GPT, Deepseek, …
+    - Chat GPT, Deepseek, …
+    - Google Assistant
 
 ---
 
