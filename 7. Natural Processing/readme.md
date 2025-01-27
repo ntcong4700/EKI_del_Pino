@@ -33,7 +33,7 @@
 
 1. **Datenschutz:**
     - Datenshutz wird verletz, KI braucht so vielen Daten furs Training.
-    - Viel Daten wurde gestohlen im Internet
+    - Viel Daten wurde gestohlen im Internet mit keinem Akzeptanz von Besitzer
 2. **Transparenz:**
     - Verpflichtung, KI-Entscheidungen nachvollziehbar zu machen.
 3. **Verantwortung :**
