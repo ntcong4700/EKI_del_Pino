@@ -11,10 +11,10 @@
 
 ### **Vorteile von KI**
 
-1. **Effizienzsteigerung:**KI-Systeme automatisieren Prozesse, sparen Zeit und Kosten (z. B. in der Produktion oder bei Verwaltungsaufgaben).
-2. **Personalisierung:**Kunden erhalten maßgeschneiderte Angebote durch Datenanalyse.
-3. **Medizinische Anwendungen:**Diagnose von Krankheiten durch KI-Systeme wie Bilderkennung in der Radiologie.
-4. **Verbesserte Entscheidungsfindung:**KI unterstützt Unternehmen und Institutionen durch Datenanalyse und präzise Vorhersagen.
+1. **Effizienzsteigerung:** KI-Systeme automatisieren Prozesse, sparen Zeit und Kosten (z. B. in der Produktion oder bei Verwaltungsaufgaben).
+2. **Personalisierung:** Kunden erhalten maßgeschneiderte Angebote durch Datenanalyse.
+3. **Medizinische Anwendungen:** Diagnose von Krankheiten durch KI-Systeme wie Bilderkennung in der Radiologie.
+4. **Verbesserte Entscheidungsfindung:** KI unterstützt Unternehmen und Institutionen durch Datenanalyse und präzise Vorhersagen.
 
 ---
 
