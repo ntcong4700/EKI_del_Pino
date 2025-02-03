@@ -5,8 +5,9 @@
 - **Beispiele für KI im Alltag:**
     - Sprachassistenten wie Alexa oder Siri
     - Autonomes Fahren und smarte Verkehrssteuerung
-    - Chat GPT, Deepseek(neu), …
-
+    - Chat GPT, Deepseek(neueste 5 milionen Dollar, bei Chat GPT oder andere Asisstant brauchen wir mindesten 100 Milionen Dollar), …
+### Leistung und Kosten verschiedener KI-Systeme
+![Alt text](Deepseek.png)
 ---
 
 ### **Vorteile von KI**
